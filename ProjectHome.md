@@ -1,0 +1,1 @@
+Pylms is a Django-based learning management system. It enables course administrators to easily and effectively create powerful sites for students and lecturers alike.
